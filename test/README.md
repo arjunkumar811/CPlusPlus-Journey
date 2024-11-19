@@ -11,3 +11,7 @@ https://doc.qt.io/
 
 # labrary
 https://eigen.tuxfamily.org/index.php?title=Main_Page
+
+# Chai Docs
+
+- https://docs.chaicode.com/ 
